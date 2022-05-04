@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="238.7171mm"
+   height="69.735275mm"
+   viewBox="0 0 238.7171 69.735275"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="dataset_basic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5620932"
+     inkscape:cx="368.64389"
+     inkscape:cy="179.15039"
+     inkscape:window-width="3836"
+     inkscape:window-height="2358"
+     inkscape:window-x="3840"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(44.162441,-26.497124)">
+    <rect
+       style="fill:#ccffaa;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="184.64337"
+       height="13.550003"
+       x="9.9112854"
+       y="26.497124" />
+    <rect
+       style="fill:#ccffaa;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31-3"
+       width="184.64337"
+       height="13.550003"
+       x="9.9112854"
+       y="45.225548" />
+    <rect
+       style="fill:#ccffaa;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31-6"
+       width="184.64337"
+       height="13.550003"
+       x="9.9112854"
+       y="63.953979" />
+    <rect
+       style="fill:#ccffaa;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31-7"
+       width="184.64337"
+       height="13.550003"
+       x="9.9112844"
+       y="82.682396" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.51384"
+       y="36.588825"
+       id="text4056"><tspan
+         sodipodi:role="line"
+         id="tspan4054"
+         style="stroke-width:0.264583"
+         x="-44.51384"
+         y="36.588825">Worker 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.335556"
+       y="93.535744"
+       id="text4056-5"><tspan
+         sodipodi:role="line"
+         id="tspan4054-3"
+         style="stroke-width:0.264583"
+         x="-44.335556"
+         y="93.535744">Worker 3</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="-44.335556"
+         y="106.76487"
+         id="tspan8991" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.44149"
+       y="74.553436"
+       id="text4056-56"><tspan
+         sodipodi:role="line"
+         id="tspan4054-2"
+         style="stroke-width:0.264583"
+         x="-44.44149"
+         y="74.553436">Worker 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.376896"
+       y="55.571129"
+       id="text4056-9"><tspan
+         sodipodi:role="line"
+         id="tspan4054-1"
+         style="stroke-width:0.264583"
+         x="-44.376896"
+         y="55.571129">Worker 1</tspan></text>
+  </g>
+</svg>
